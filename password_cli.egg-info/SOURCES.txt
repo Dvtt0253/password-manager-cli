@@ -1,0 +1,8 @@
+app.py
+setup.py
+password_cli.egg-info/PKG-INFO
+password_cli.egg-info/SOURCES.txt
+password_cli.egg-info/dependency_links.txt
+password_cli.egg-info/entry_points.txt
+password_cli.egg-info/requires.txt
+password_cli.egg-info/top_level.txt

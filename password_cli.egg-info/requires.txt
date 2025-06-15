@@ -1,0 +1,6 @@
+Flask
+click
+cryptography
+python-dotenv
+SQLAlchemy
+argon2-cffi
