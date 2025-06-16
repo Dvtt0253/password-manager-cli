@@ -29,7 +29,7 @@ A local command line password manager that securely stores passwords for entered
 - `password-cli request-password` - Request to view a stored password
 - `password-cli show-passwords-list` - Request to show full list of stored passwords 
 - `password-cli logout` - Logout and session clearing
-- `password-cli delete-password` - Delete a stored password passwords list
+- `password-cli delete-password` - Delete a stored password from the passwords list
 - `password-cli delete-account` - Request to delete account and clear account data
 
 
