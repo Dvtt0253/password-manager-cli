@@ -39,7 +39,7 @@ A local command line password manager that securely stores passwords for entered
 - PostgreSQL
 - SQLAlchemy
 - Cryptography(Fernet for encryption and decryption)
-- Argon2(password hashing)
+- Argon2(Password hashing)
 - Click
 
 
