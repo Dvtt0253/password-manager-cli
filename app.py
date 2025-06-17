@@ -199,7 +199,7 @@ def show_passwords_list():
         existing_user = User.query.filter_by(id=user_id).first()
         if existing_user:
             verify_username = click.prompt("Username")
-            verify_password = click.prompt("Password")
+            verify_password = click.prompt("Password", hide_input=True)
             if existing_user.username == verify_username:
                 try:
                     ph.verify(existing_user.hashed_password, verify_password)
